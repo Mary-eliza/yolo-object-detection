@@ -12,7 +12,7 @@ This project uses YOLOv3 and OpenCV to perform real-time object detection from a
 real-time-object-detection/
 │
 ├── src/
-│ └── object_detection_final.py
+│ └── object_detection.py
 │
 ├── data/
 │ ├── yolov3.cfg
